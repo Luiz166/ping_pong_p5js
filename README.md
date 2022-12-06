@@ -8,7 +8,7 @@
  <a href="#status">Status</a> •
  <a href="#howto">How to play</a> • 
  <a href="#codepen">CodePen</a> • 
- <a href="#autor">Author</a>
+ <a href="#author">Author</a>
 </p>
 
 <h1 id='status'>Status</h1>
