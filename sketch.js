@@ -32,8 +32,8 @@ let hit_p2 = false;
 let randomColor = Math.floor(Math.random() * 16777215).toString(16);
 
 
-let point_sound = new Audio('sounds/point.mp3');
-let racket_sound = new Audio('sounds/huh.mp3');
+let point_sound = new Audio('sounds_fx/point.mp3');
+let racket_sound = new Audio('sounds_fx/huh.mp3');
 
 let winnerText_x = window.innerWidth/2 - 100;
 let winnerText_y = window.innerHeight/2;
